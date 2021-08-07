@@ -1,0 +1,108 @@
+{
+    "docs": [
+        {
+            "_id": "all",
+            "categoryName": "모든 장르",
+            "thumbnails": "http://assets.sample.com/web/all.png",
+            "order": 0
+        },
+        {
+            "_id": "recommendation_now",
+            "categoryName": "구독하고 바로보기",
+            "thumbnails": "http://assets.sample.com/web/event_developer.png",
+            "order": 11,
+            "visible": true
+        },
+        {
+            "_id": "recommendation_cultural_life",
+            "categoryName": "누워서 문화생활",
+            "thumbnails": "http://assets.sample.com/web/event_developer.png",
+            "order": 12,
+            "visible": true
+        },
+        {
+            "_id": "recommendation_morning_coffee",
+            "categoryName": "모닝커피 메이트",
+            "thumbnails": "http://assets.sample.com/web/event_developer.png",
+            "order": 13,
+            "visible": true
+        },
+        {
+            "_id": "recommendation_tired_wednesday",
+            "categoryName": "지치는 수요일엔",
+            "thumbnails": "http://assets.sample.com/web/event_developer.png",
+            "order": 14,
+            "visible": true
+        },
+        {
+            "_id": "recommendation_freshman_fighting",
+            "categoryName": "취준생 화이팅",
+            "thumbnails": "http://assets.sample.com/web/event_developer.png",
+            "order": 15,
+            "visible": true
+        },
+        {
+            "_id": "recommendation_marketer_medicine",
+            "categoryName": "마케터에게 보약",
+            "thumbnails": "http://assets.sample.com/web/event_developer.png",
+            "order": 16,
+            "visible": true
+        },
+        {
+            "_id": "current_issue",
+            "categoryName": "시사",
+            "thumbnails": "http://assets.sample.com/web/current_issue.png",
+            "order": 101,
+            "visible": true
+        },
+        {
+            "_id": "finance",
+            "categoryName": "금융/재테크",
+            "thumbnails": "http://assets.sample.com/web/finance.png",
+            "order": 102,
+            "visible": true
+        },
+        {
+            "_id": "marketing",
+            "categoryName": "마케팅",
+            "thumbnails": "http://assets.sample.com/web/marketing.png",
+            "order": 103,
+            "visible": true
+        },
+        {
+            "_id": "lifestyle",
+            "categoryName": "라이프스타일",
+            "thumbnails": "http://assets.sample.com/web/lifestyle.png",
+            "order": 104,
+            "visible": true
+        },
+        {
+            "_id": "design_art",
+            "categoryName": "디자인/아트",
+            "thumbnails": "http://assets.sample.com/web/design_art.png",
+            "order": 105,
+            "visible": true
+        },
+        {
+            "_id": "tech",
+            "categoryName": "테크",
+            "thumbnails": "http://assets.sample.com/web/tech.png",
+            "order": 106,
+            "visible": true
+        },
+        {
+            "_id": "movie_music",
+            "categoryName": "영화/음악",
+            "thumbnails": "http://assets.sample.com/web/movie_music.png",
+            "order": 107,
+            "visible": true
+        },
+        {
+            "_id": "food",
+            "categoryName": "푸드",
+            "thumbnails": "http://assets.sample.com/web/food.png",
+            "order": 108,
+            "visible": true
+        }
+    ]
+}

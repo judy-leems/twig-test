@@ -1,0 +1,1231 @@
+{
+    "pagination": {
+        "from": 20,
+        "limit": 20,
+        "page": 2,
+        "isPaginated": true
+    },
+    "total": 1102,
+    "contents": [
+        {
+            "_id": "2021-07-16",
+            "docs": [
+                {
+                    "_id": "60f16183f7cd3b00087efc1a",
+                    "contentIdentifier": "bm9yZXBseUByb2Jpbmhvb2QuY29tXyEqJF/wn4+mIFRoZSBCaWcgQmFuayB0aGVvcnlfISokX2VuXyEqJF9rb18hKiRfNjBmMTYxODNmN2NkM2IwMDA4N2VmYzE5",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-16T10:37:55.307Z",
+                    "updatedAt": "2021-07-16T10:38:15.416Z",
+                    "fromEmail": "noreply@robinhood.com",
+                    "fromName": "Robinhood Snacks",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "Robinhood Snacks<noreply@robinhood.com>",
+                    "preview": "",
+                    "previewOriginal": "...and have you had your yearly check-up (the ans",
+                    "s3Info": {
+                        "object": {
+                            "key": "4cb9f9b6-a091-4f66-8ad1-5ecc64ff9807",
+                            "size": 109975,
+                            "eTag": "3ba47db36c1f64833c77f8a39fd970ab",
+                            "sequencer": "0060F1619600F2375D"
+                        }
+                    },
+                    "searchKeywords": [
+                        "🏦",
+                        "빅뱅크",
+                        "이론",
+                        "🏦",
+                        "The",
+                        "Big",
+                        "Bank",
+                        "theory"
+                    ],
+                    "sourceLanguage": "en",
+                    "subject": "🏦 빅뱅크 이론",
+                    "subjectOriginal": "🏦 The Big Bank theory",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://cdn.robinhood.com/marketsnacks_assets/v2/snacks.png",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "Robinhood Snacks<noreply@robinhood.com>",
+                            "title": "Robinhood Snacks",
+                            "categoryIds": [
+                                "finance",
+                                "recommendation_funjoomal"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "데일리",
+                            "createdAt": "2021-03-25T06:48:04.723Z",
+                            "domain": "robinhood.com",
+                            "newsletterLanguage": "en",
+                            "shortDescription": "금융거래플랫폼 로빈후드가 제공하는 파이낸셜 뉴스레터",
+                            "subscribeLink": "https://snacks.robinhood.com/",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/robinhood-snacks.png",
+                            "updatedAt": "2021-06-04T02:55:48.145Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f158c5226feb0008a4d4dd",
+                    "contentIdentifier": "Y3Jld0Btb3JuaW5nYnJldy5jb21fISokX+KYle+4jyBEb2dlY29pbiBpbnZlbnRvciBzcGVha3Mgb3V0XyEqJF9lbl8hKiRfa29fISokXzYwZjE1OGM1MjI2ZmViMDAwOGE0ZDRkYw==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-16T10:00:37.040Z",
+                    "updatedAt": "2021-07-16T11:09:32.829Z",
+                    "fromEmail": "crew@morningbrew.com",
+                    "fromName": "Morning Brew",
+                    "isRead": true,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "Morning Brew<crew@morningbrew.com>",
+                    "preview": "MBA 프로그램이 직접 돌아옵니다. 2021년 7월 16일 함께 힘든 휴식이지만 우리는",
+                    "previewOriginal": "MBA programs are coming back in-person July 16, 2",
+                    "s3Info": {
+                        "object": {
+                            "key": "f640b2f2-8b3d-41eb-a786-f6a61e8d6944",
+                            "size": 203522,
+                            "eTag": "ecbf241223fd32437df136908164f06a",
+                            "sequencer": "0060F158D5891C2C12"
+                        }
+                    },
+                    "searchKeywords": [
+                        "☕️",
+                        "Dogecoin",
+                        "발명가가",
+                        "말하는",
+                        "☕️",
+                        "Dogecoin",
+                        "inventor",
+                        "speaks",
+                        "out"
+                    ],
+                    "sourceLanguage": "en",
+                    "subject": "☕️ Dogecoin 발명가가 말하는",
+                    "subjectOriginal": "☕️ Dogecoin inventor speaks out",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://ad.doubleclick.net/ddm/trackimp/N7442.3407870MORNINGBREW/B25957551.305077288;dc_trk_aid=497862572;dc_trk_cid=152104409;ord=1316908626;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$;gdpr_consent=$;ltd=?",
+                    "readedAt": "2021-07-16T11:09:32.829Z",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "Morning Brew<crew@morningbrew.com>",
+                            "title": "Morning Brew",
+                            "categoryIds": [
+                                "current_issue",
+                                "finance",
+                                "recommendation_4years",
+                                "recommendation_freshman_fighting",
+                                "recommendation_morning_coffee"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "",
+                            "createdAt": "2021-03-25T10:36:49.151Z",
+                            "domain": "morningbrew.com",
+                            "newsletterLanguage": "en",
+                            "shortDescription": "월가에서 실리콘벨리까지 당신의 하루에 필요한 정보들을 쏙쏙골라 담은 뉴스레터",
+                            "subscribeLink": "https://www.morningbrew.com/",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/morningbrew.png",
+                            "updatedAt": "2021-06-08T00:57:40.454Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0f645c113060008ed4bc0",
+                    "contentIdentifier": "ZWRpdG9yQGJlbGV0dGVyLmVtYWlsXyEqJF/imqsg7LGFIOyGjeydmCDtlonsmrTsnYQg67Cc6rKs7ZWgIOyImCDsnojrj4TroZ0sIEJvbm5lIENoYW5jZSFfISokX2tvXyEqJF9rb18hKiRfNjBmMGY2NDVjMTEzMDYwMDA4ZWQ0YmJm",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-16T03:00:21.816Z",
+                    "updatedAt": "2021-07-16T05:58:16.852Z",
+                    "fromEmail": "editor@beletter.email",
+                    "fromName": "BE. LETTER",
+                    "isRead": true,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "BE. LETTER<editor@beletter.email>",
+                    "preview": "추천 책과 독서 모임 발제문까지 공유하는 북 큐레이션 뉴스레터 💬 한마디로 말하면? <s",
+                    "previewOriginal": "추천 책과 독서 모임 발제문까지 공유하는 북 큐레이션 뉴스레터 💬 한마디로 말하면? <s",
+                    "s3Info": {
+                        "object": {
+                            "key": "71d431ba-b521-4633-9f2e-faceefcd1807",
+                            "size": 53888,
+                            "eTag": "3d7a1ab09751c7e2c94606d378f05f03",
+                            "sequencer": "0060F0F6486FA9F399"
+                        }
+                    },
+                    "searchKeywords": [
+                        "⚫",
+                        "책",
+                        "속의",
+                        "행운을",
+                        "발견할",
+                        "수",
+                        "있도록,",
+                        "Bonne",
+                        "Chance!",
+                        "⚫",
+                        "책",
+                        "속의",
+                        "행운을",
+                        "발견할",
+                        "수",
+                        "있도록,",
+                        "Bonne",
+                        "Chance!"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "⚫ 책 속의 행운을 발견할 수 있도록, Bonne Chance!",
+                    "subjectOriginal": "⚫ 책 속의 행운을 발견할 수 있도록, Bonne Chance!",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/26511_1624266398.png",
+                    "readedAt": "2021-07-16T05:58:16.852Z",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "BE. LETTER<editor@beletter.email>",
+                            "title": "BE.LETTER",
+                            "categoryIds": [
+                                "marketing"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "금",
+                            "createdAt": "2021-03-25T06:48:04.722Z",
+                            "domain": "beletter.email",
+                            "newsletterLanguage": "ko",
+                            "shortDescription": "스티비에서 발행하는 뉴스레터를 소개하는 뉴스레터",
+                            "subscribeLink": "https://page.stibee.com/subscriptions/62723",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/be-letter.png",
+                            "updatedAt": "2021-03-25T06:48:04.722Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0de2db4ba4f0008de7106",
+                    "contentIdentifier": "Z2xvYmFsX25ld3NAd2lzZXN0LmNvLmtyXyEqJF9Nb1lhIOq4gOuhnOuyjCDribTsiqTroIjthLAgKDIwMjEtMDctMTYpXyEqJF9lbl8hKiRfa29fISokXzYwZjBkZTJkYjRiYTRmMDAwOGRlNzEwNQ==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-16T01:17:33.253Z",
+                    "updatedAt": "2021-07-16T01:17:42.097Z",
+                    "fromEmail": "global_news@wisest.co.kr",
+                    "fromName": "MoYa Global News Team",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "MoYa Global News Team<global_news@wisest.co.kr>",
+                    "preview": "MoYa 뉴스 레터는 천안안 세계 주요 뉴스를 인공지능으로 옮긴다. 도현, 전 도현의 전",
+                    "previewOriginal": "MoYa 뉴스레터는 놓쳐선 안 될 세계 주요 뉴스를 인공지능으로 요약 및 번역한 후 매일",
+                    "s3Info": {
+                        "object": {
+                            "key": "c69c903f-25bc-489d-ad86-c8741d9636f6",
+                            "size": 180355,
+                            "eTag": "e5d8b55c9f7d78cca5801e0d5f26264d",
+                            "sequencer": "0060F0DE343617D401"
+                        }
+                    },
+                    "searchKeywords": [
+                        "모야",
+                        "글로벌",
+                        "뉴스레터",
+                        "(2021-07-16)",
+                        "MoYa",
+                        "글로벌",
+                        "뉴스레터",
+                        "(2021-07-16)"
+                    ],
+                    "sourceLanguage": "en",
+                    "subject": "모야 글로벌 뉴스레터 (2021-07-16)",
+                    "subjectOriginal": "MoYa 글로벌 뉴스레터 (2021-07-16)",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://image.cnbcfm.com/api/v1/image/106712834-1600800653401-gettyimages-1227823297-urn_newsml_dpa_com_20090101_200729-99-965480-2.jpeg?v=1612388538",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "MoYa Global News Team<global_news@wisest.co.kr>",
+                            "newsletterLanguage": "en",
+                            "thumbnails": "",
+                            "verified": false,
+                            "visible": false,
+                            "title": null,
+                            "domain": "wisest.co.kr",
+                            "subscribeLink": null,
+                            "createdAt": "2021-04-26T08:00:56.901Z",
+                            "updatedAt": "2021-04-26T08:00:56.901Z"
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0d1072b8a0e0009e56706",
+                    "contentIdentifier": "dGVhbUBzb29uc2FsLmNvbV8hKiRf4pq97LaV6rWs7Lm065OcIO2MlOyVhOyEnCDsl7Drp6TstpwgMeyhsOybkCDrhJjripQg7ZqM7IKsIFs37JuUIDE27J28XV8hKiRfa29fISokX2tvXyEqJF82MGYwZDEwNzJiOGEwZTAwMDllNTY3MDU=",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-16T00:21:27.503Z",
+                    "updatedAt": "2021-07-16T00:21:32.810Z",
+                    "fromEmail": "team@soonsal.com",
+                    "fromName": "순살브리핑 Soonsal",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "순살브리핑 Soonsal<team@soonsal.com>",
+                    "preview": "손흥민 카드는?? ▪ 한편 중국이 비트코인에 대한 규제<span style=\"font-s",
+                    "previewOriginal": "손흥민 카드는?? ▪ 한편 중국이 비트코인에 대한 규제<span style=\"font-s",
+                    "s3Info": {
+                        "object": {
+                            "key": "fa59f5fa-6ff9-4336-bbb8-208163819de1",
+                            "size": 177060,
+                            "eTag": "3769a8b75ff6c1f32a6d92fff713aeee",
+                            "sequencer": "0060F0D10AE94F0417"
+                        }
+                    },
+                    "searchKeywords": [
+                        "⚽축구카드",
+                        "팔아서",
+                        "연매출",
+                        "1조원",
+                        "넘는",
+                        "회사",
+                        "[7월",
+                        "16일]",
+                        "⚽축구카드",
+                        "팔아서",
+                        "연매출",
+                        "1조원",
+                        "넘는",
+                        "회사",
+                        "[7월",
+                        "16일]"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "⚽축구카드 팔아서 연매출 1조원 넘는 회사 [7월 16일]",
+                    "subjectOriginal": "⚽축구카드 팔아서 연매출 1조원 넘는 회사 [7월 16일]",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://stibee.com/assets/images/editor/share_gray_web.png",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "순살브리핑 Soonsal<team@soonsal.com>",
+                            "title": "순살브리핑",
+                            "categoryIds": [
+                                "finance",
+                                "recommendation_morning_coffee",
+                                "recommendation_freshman_fighting"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "평일 아침 10시",
+                            "createdAt": "2021-03-25T06:48:04.723Z",
+                            "domain": "soonsal.com",
+                            "newsletterLanguage": "ko",
+                            "shortDescription": "전 세계 금융/경제 뉴스를 살코기만 발라 제공하는 뉴스레터",
+                            "subscribeLink": "https://page.stibee.com/subscriptions/51845",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/soonsal.png",
+                            "updatedAt": "2021-07-16T03:43:13.587Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0cc16e8f65900095f7461",
+                    "contentIdentifier": "cGluZWFwcGxlQGZubmV3cy5jb21fISokX1vwn42N7ZWc7KGw6rCBXSDrsJjrs7XrkJwg7Iuc7IaM6rKM7J6ELCDsp4DquIjsnYAg64iE6rWsIOywqOuhgD9fISokX2tvXyEqJF9rb18hKiRfNjBmMGNjMTZlOGY2NTkwMDA5NWY3NDYw",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-16T00:00:22.119Z",
+                    "updatedAt": "2021-07-16T00:00:32.696Z",
+                    "fromEmail": "pineapple@fnnews.com",
+                    "fromName": "파인애플",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "파인애플<pineapple@fnnews.com>",
+                    "preview": "가치주와 성장주의 관계 이번주 </span> 파인애플<span style=\"font-si",
+                    "previewOriginal": "가치주와 성장주의 관계 이번주 </span> 파인애플<span style=\"font-si",
+                    "s3Info": {
+                        "object": {
+                            "key": "86145743-f070-4d68-8623-15b2bd9bf34a",
+                            "size": 222930,
+                            "eTag": "bf00071d81ee448fdf298098652e1f98",
+                            "sequencer": "0060F0CC1EF9022CB2"
+                        }
+                    },
+                    "searchKeywords": [
+                        "[🍍한조각]",
+                        "반복된",
+                        "시소게임,",
+                        "지금은",
+                        "누구",
+                        "차례?",
+                        "[🍍한조각]",
+                        "반복된",
+                        "시소게임,",
+                        "지금은",
+                        "누구",
+                        "차례?"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "[🍍한조각] 반복된 시소게임, 지금은 누구 차례?",
+                    "subjectOriginal": "[🍍한조각] 반복된 시소게임, 지금은 누구 차례?",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/30489_1592892833.gif",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "파인애플<pineapple@fnnews.com>",
+                            "newsletterLanguage": "ko",
+                            "thumbnails": "",
+                            "verified": false,
+                            "visible": false,
+                            "title": null,
+                            "domain": "fnnews.com",
+                            "subscribeLink": null,
+                            "createdAt": "2021-04-23T14:47:01.622Z",
+                            "updatedAt": "2021-04-26T08:23:02.830Z"
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0be56e7fcaa00081038f9",
+                    "contentIdentifier": "ZnVuam9vbWFsQGdtYWlsLmNvbV8hKiRf7KO866eQ656t7J207JW8IOyXrOumhOydhCDrtoDtg4HtlbTwn5iOXyEqJF9rb18hKiRfa29fISokXzYwZjBiZTU2ZTdmY2FhMDAwODEwMzhmOA==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T23:01:42.795Z",
+                    "updatedAt": "2021-07-15T23:23:36.674Z",
+                    "fromEmail": "funjoomal@gmail.com",
+                    "fromName": "주말랭이",
+                    "isRead": true,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "주말랭이<funjoomal@gmail.com>",
+                    "preview": "🍨빙수 맛집🧤집콕 만들기🌜열대야 꿀잠 한껏 더워진 요즘<span lang=\"EN-US\">",
+                    "previewOriginal": "🍨빙수 맛집🧤집콕 만들기🌜열대야 꿀잠 한껏 더워진 요즘<span lang=\"EN-US\">",
+                    "s3Info": {
+                        "object": {
+                            "key": "dd8eca70-bf8d-4731-857d-9af02a701601",
+                            "size": 448907,
+                            "eTag": "e8f2b4d49fb5ea2786c8849cb141da2d",
+                            "sequencer": "0060F0BE9E413BBA2C"
+                        }
+                    },
+                    "searchKeywords": [
+                        "주말랭이야",
+                        "여름을",
+                        "부탁해😎",
+                        "주말랭이야",
+                        "여름을",
+                        "부탁해😎"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "주말랭이야 여름을 부탁해😎",
+                    "subjectOriginal": "주말랭이야 여름을 부탁해😎",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/33388_1616683821.jpg",
+                    "readedAt": "2021-07-15T23:23:36.674Z",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "주말랭이<funjoomal@gmail.com>",
+                            "title": "주말랭이",
+                            "categoryIds": [
+                                "travel",
+                                "lifestyle"
+                            ],
+                            "confirmationEmail": "구독 확인 메일 -> 구독 버튼-> 구독 완료",
+                            "contentReleaseSchedule": "금",
+                            "createdAt": "2021-03-25T06:48:04.723Z",
+                            "domain": "gmail.com",
+                            "newsletterLanguage": "ko",
+                            "shortDescription": "소중한 주말을 알차게 보내기위한 주말 가이드를 보내주는 뉴스레터",
+                            "subscribeLink": "https://page.stibee.com/subscriptions/78183",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/funjoomal.png",
+                            "updatedAt": "2021-03-25T06:48:04.723Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0b24c58078d000923b58c",
+                    "contentIdentifier": "ZWRpdG9yQGhhbmt5dW5nLmNvbV8hKiRfW+2VnOqyvSBXYXZlXSAg66+47Iug6rO8IO2VmeusuCDsgqzsnbQsIOyCrOyjvCDsgqzsmqkg7ISk66qF7IScXyEqJF9rb18hKiRfa29fISokXzYwZjBiMjRjNTgwNzhkMDAwOTIzYjU4Yg==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T22:10:20.293Z",
+                    "updatedAt": "2021-07-15T22:11:02.477Z",
+                    "fromEmail": "editor@hankyung.com",
+                    "fromName": "한경 💌 Wave",
+                    "isRead": true,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "한경 💌 Wave<editor@hankyung.com>",
+                    "preview": "2021. 7. 16 나의 사주는 좋은 사주일까. 나쁜 사주일까. 나와 같은 날 태어난",
+                    "previewOriginal": "2021. 7. 16 나의 사주는 좋은 사주일까. 나쁜 사주일까. 나와 같은 날 태어난",
+                    "s3Info": {
+                        "object": {
+                            "key": "13b5d35b-ea6e-4563-8a1a-856a4680c1e4",
+                            "size": 202143,
+                            "eTag": "9f85b71197a6f3363dacedb04b02f8e8",
+                            "sequencer": "0060F0B24F4DE6614E"
+                        }
+                    },
+                    "searchKeywords": [
+                        "[한경",
+                        "Wave]",
+                        "",
+                        "미신과",
+                        "학문",
+                        "사이,",
+                        "사주",
+                        "사용",
+                        "설명서",
+                        "[한경",
+                        "Wave]",
+                        "",
+                        "미신과",
+                        "학문",
+                        "사이,",
+                        "사주",
+                        "사용",
+                        "설명서"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "[한경 Wave]  미신과 학문 사이, 사주 사용 설명서",
+                    "subjectOriginal": "[한경 Wave]  미신과 학문 사이, 사주 사용 설명서",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/35366_1617277045.jpg",
+                    "readedAt": "2021-07-15T22:11:02.477Z",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "한경 💌 Wave<editor@hankyung.com>",
+                            "newsletterLanguage": "ko",
+                            "thumbnails": "",
+                            "verified": false,
+                            "visible": false,
+                            "title": null,
+                            "domain": "hankyung.com",
+                            "subscribeLink": null,
+                            "createdAt": "2021-04-22T22:14:27.477Z",
+                            "updatedAt": "2021-05-12T07:49:43.496Z",
+                            "categoryIds": [
+                                "current_issue",
+                                "finance"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0b15b58078d000923b57a",
+                    "contentIdentifier": "d2VAZG90ZmFjZS5rcl8hKiRf7JWE67mg6rCAIOyViCDrgrgg6rG06rCV67O07ZeY66OMLCDqsJHsnpDquLAg64KY67O06rOgIOuCtOudvOqzoD/wn6S34oCN4pmA77iPXyEqJF9rb18hKiRfa29fISokXzYwZjBiMTViNTgwNzhkMDAwOTIzYjU3OQ==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T22:06:19.431Z",
+                    "updatedAt": "2021-07-15T22:10:47.878Z",
+                    "fromEmail": "we@dotface.kr",
+                    "fromName": "닷페이스 다다닷",
+                    "isRead": true,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "닷페이스 다다닷<we@dotface.kr>",
+                    "preview": "닷페이스의 글과 영상, 그 모든 이야기들 안녕하세요! <span style=\"color:",
+                    "previewOriginal": "닷페이스의 글과 영상, 그 모든 이야기들 안녕하세요! <span style=\"color:",
+                    "s3Info": {
+                        "object": {
+                            "key": "945bcd0c-346a-4e2f-b54a-9a859032819b",
+                            "size": 110061,
+                            "eTag": "480a29c468d13862a2293c0f9139460f",
+                            "sequencer": "0060F0B15E400F7506"
+                        }
+                    },
+                    "searchKeywords": [
+                        "아빠가",
+                        "안",
+                        "낸",
+                        "건강보험료,",
+                        "갑자기",
+                        "나보고",
+                        "내라고?🤷‍♀️",
+                        "아빠가",
+                        "안",
+                        "낸",
+                        "건강보험료,",
+                        "갑자기",
+                        "나보고",
+                        "내라고?🤷‍♀️"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "아빠가 안 낸 건강보험료, 갑자기 나보고 내라고?🤷‍♀️",
+                    "subjectOriginal": "아빠가 안 낸 건강보험료, 갑자기 나보고 내라고?🤷‍♀️",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/21391_1626336343.png",
+                    "readedAt": "2021-07-15T22:10:47.878Z",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "닷페이스 다다닷<we@dotface.kr>",
+                            "newsletterLanguage": "ko",
+                            "thumbnails": "",
+                            "verified": false,
+                            "visible": false,
+                            "title": "닷페이스",
+                            "tags": [],
+                            "domain": "dotface.kr",
+                            "subscribeLink": null,
+                            "createdAt": "2021-07-08T03:00:29.349Z",
+                            "updatedAt": "2021-07-08T03:59:41.207Z"
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0b05682fe3e00081fa84e",
+                    "contentIdentifier": "ZWRpdG9yQGhhbmt5dW5nLmNvbV8hKiRfJ+ynhOuLqO2CpO2KuCDrjIDsnqXso7wnIOyXkOyKpOuUlOuwlOydtOyYpOyEvOyEnCDsmKTripgg7IOB7J6l4oCmJ+uUsOyDgScg6rCA64ql7ZWg6rmMXyEqJF9rb18hKiRfa29fISokXzYwZjBiMDU2ODJmZTNlMDAwODFmYTg0ZA==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T22:01:58.519Z",
+                    "updatedAt": "2021-07-15T22:11:11.839Z",
+                    "fromEmail": "editor@hankyung.com",
+                    "fromName": "한경 💌 Issue  Today",
+                    "isRead": true,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "한경 💌 Issue  Today<editor@hankyung.com>",
+                    "preview": "페이스북에 공유하기</a></span><span style=\"list-style: non",
+                    "previewOriginal": "페이스북에 공유하기</a></span><span style=\"list-style: non",
+                    "s3Info": {
+                        "object": {
+                            "key": "0b3e8804-7078-4262-84bb-da7096e46881",
+                            "size": 136091,
+                            "eTag": "7bc76b8877fae15fc5c4a6691d0a6d9d",
+                            "sequencer": "0060F0B0590CE1DAEA"
+                        }
+                    },
+                    "searchKeywords": [
+                        "'진단키트",
+                        "대장주'",
+                        "에스디바이오센서",
+                        "오늘",
+                        "상장…'따상'",
+                        "가능할까",
+                        "'진단키트",
+                        "대장주'",
+                        "에스디바이오센서",
+                        "오늘",
+                        "상장…'따상'",
+                        "가능할까"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "'진단키트 대장주' 에스디바이오센서 오늘 상장…'따상' 가능할까",
+                    "subjectOriginal": "'진단키트 대장주' 에스디바이오센서 오늘 상장…'따상' 가능할까",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/35366_1626071061.jpg",
+                    "readedAt": "2021-07-15T22:11:11.839Z",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "한경 💌 Issue  Today<editor@hankyung.com>",
+                            "newsletterLanguage": "ko",
+                            "thumbnails": "",
+                            "verified": false,
+                            "visible": false,
+                            "title": null,
+                            "domain": "hankyung.com",
+                            "subscribeLink": null,
+                            "createdAt": "2021-04-21T21:52:28.063Z",
+                            "updatedAt": "2021-05-12T07:49:52.037Z",
+                            "categoryIds": [
+                                "current_issue",
+                                "finance"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0a855c994eb00089ac322",
+                    "contentIdentifier": "bW9uZXlsZXR0ZXJAdXBwaXR5LmNvLmtyXyEqJF/wn5Kw66+47Iig7Yis7J6QLCDsnbTqsoPrp4zsnYAg7JWM6rOgIOqwgOyEuOyalCFfISokX2tvXyEqJF9rb18hKiRfNjBmMGE4NTVjOTk0ZWIwMDA4OWFjMzIx",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T21:27:49.862Z",
+                    "updatedAt": "2021-07-15T22:11:29.160Z",
+                    "fromEmail": "moneyletter@uppity.co.kr",
+                    "fromName": "UPPITY",
+                    "isRead": true,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "UPPITY<moneyletter@uppity.co.kr>",
+                    "preview": "#하이브리드카 #신규상장 #위클리도슨트 코스피 3,286.22 <span style=\"c",
+                    "previewOriginal": "#하이브리드카 #신규상장 #위클리도슨트 코스피 3,286.22 <span style=\"c",
+                    "s3Info": {
+                        "object": {
+                            "key": "d1627003-473a-4b5b-8a87-09258e4f2bdb",
+                            "size": 239418,
+                            "eTag": "004b8098959ad5ead036d13b1fba85c2",
+                            "sequencer": "0060F0A85A7C8F89A9"
+                        }
+                    },
+                    "searchKeywords": [
+                        "💰미술투자,",
+                        "이것만은",
+                        "알고",
+                        "가세요!",
+                        "💰미술투자,",
+                        "이것만은",
+                        "알고",
+                        "가세요!"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "💰미술투자, 이것만은 알고 가세요!",
+                    "subjectOriginal": "💰미술투자, 이것만은 알고 가세요!",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/8466_1626303809.png",
+                    "readedAt": "2021-07-15T22:11:29.160Z",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "UPPITY<moneyletter@uppity.co.kr>",
+                            "title": "어피티",
+                            "categoryIds": [
+                                "finance",
+                                "lifestyle"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "평일 아침 8시",
+                            "createdAt": "2021-03-25T06:48:04.723Z",
+                            "domain": "uppity.co.kr",
+                            "newsletterLanguage": "ko",
+                            "shortDescription": "사회초년생이 꼭 알아야 할 금융정보를 쉽게 이야기해주는 경제 뉴스레터",
+                            "subscribeLink": "https://uppity.co.kr/",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/uppity.png",
+                            "updatedAt": "2021-03-25T06:48:04.723Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0a274809e8e0008ed742d",
+                    "contentIdentifier": "Ynl0ZXRlYW0zNjVAZ21haWwuY29tXyEqJF/qsKTrn63si5wg7IiY64Kc7Iuc64yALCDsgrzshLHsnZgg64yA7LKY64qUPyDwn6SUXyEqJF9rb18hKiRfa29fISokXzYwZjBhMjc0ODA5ZThlMDAwOGVkNzQyYw==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T21:02:44.689Z",
+                    "updatedAt": "2021-07-15T22:11:43.578Z",
+                    "fromEmail": "byteteam365@gmail.com",
+                    "fromName": "DAILY_BYTE",
+                    "isRead": true,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "DAILY_BYTE<byteteam365@gmail.com>",
+                    "preview": "5G의 현주소 | 갤럭시 수난시대 | 뉴스 모아보기 15일 <a href=\"https:/",
+                    "previewOriginal": "5G의 현주소 | 갤럭시 수난시대 | 뉴스 모아보기 15일 <a href=\"https:/",
+                    "s3Info": {
+                        "object": {
+                            "key": "f3ff405c-a6ea-4a2f-8f66-7d0c9239a1c0",
+                            "size": 223057,
+                            "eTag": "e941461987f59324a0f92b56f097c5c6",
+                            "sequencer": "0060F0A27845DB8D14"
+                        }
+                    },
+                    "searchKeywords": [
+                        "갤럭시",
+                        "수난시대,",
+                        "삼성의",
+                        "대처는?",
+                        "🤔",
+                        "갤럭시",
+                        "수난시대,",
+                        "삼성의",
+                        "대처는?",
+                        "🤔"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "갤럭시 수난시대, 삼성의 대처는? 🤔",
+                    "subjectOriginal": "갤럭시 수난시대, 삼성의 대처는? 🤔",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/34563_1626350696.png",
+                    "readedAt": "2021-07-15T22:11:43.578Z",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "DAILY_BYTE<byteteam365@gmail.com>",
+                            "title": "데일리바이트",
+                            "categoryIds": [
+                                "current_issue"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "",
+                            "createdAt": "2021-03-25T21:11:08.029Z",
+                            "domain": "gmail.com",
+                            "newsletterLanguage": "ko",
+                            "shortDescription": "비즈니스 뉴스의 흐름과 용어를 쉽게 설명해주는 뉴스레터",
+                            "subscribeLink": "http://mydailybyte.com",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/mydailybyte.png",
+                            "updatedAt": "2021-05-06T09:56:59.400Z",
+                            "verified": true,
+                            "visible": false,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f09bb58f7d5600086a6ddb",
+                    "contentIdentifier": "d2hhdHN1cEBuZXduZWVrLmNvXyEqJF/wn6aU7Ja065SU7JW8PyDsmZwg7JWE7KeBIOyViCDsmYA/XyEqJF9rb18hKiRfa29fISokXzYwZjA5YmI1OGY3ZDU2MDAwODZhNmRkYQ==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T20:33:57.185Z",
+                    "updatedAt": "2021-07-15T20:34:01.914Z",
+                    "fromEmail": "whatsup@newneek.co",
+                    "fromName": "NEWNEEK",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "NEWNEEK<whatsup@newneek.co>",
+                    "preview": "카카오택시,남아공,장마 언젠가부터 택시를 부를 때 손을 흔드는 대신 스마트폰을 꺼내게 됐",
+                    "previewOriginal": "카카오택시,남아공,장마 언젠가부터 택시를 부를 때 손을 흔드는 대신 스마트폰을 꺼내게 됐",
+                    "s3Info": {
+                        "object": {
+                            "key": "c4b9e825-1889-4f77-8ed0-254e3ffa3685",
+                            "size": 248650,
+                            "eTag": "df9c226c6f6cb7c2f6cc7365bfa33670",
+                            "sequencer": "0060F09BB92ED5ECC8"
+                        }
+                    },
+                    "searchKeywords": [
+                        "🦔어디야?",
+                        "왜",
+                        "아직",
+                        "안",
+                        "와?",
+                        "🦔어디야?",
+                        "왜",
+                        "아직",
+                        "안",
+                        "와?"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "🦔어디야? 왜 아직 안 와?",
+                    "subjectOriginal": "🦔어디야? 왜 아직 안 와?",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/10535_1605149766.png",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "NEWNEEK<whatsup@newneek.co>",
+                            "title": "뉴닉",
+                            "categoryIds": [
+                                "current_issue",
+                                "recommendation_freshman_fighting",
+                                "recommendation_morning_coffee"
+                            ],
+                            "confirmationEmail": "no",
+                            "contentReleaseSchedule": "월/수/금 아침",
+                            "createdAt": "2021-03-25T06:48:04.723Z",
+                            "domain": "newneek.co",
+                            "newsletterLanguage": "ko",
+                            "shortDescription": "밀레니얼 타겟 쉽고 재밌는 시사 뉴스레터",
+                            "subscribeLink": "https://newneek.co/",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/newneek.png",
+                            "updatedAt": "2021-07-16T00:26:47.485Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "2021-07-15",
+            "docs": [
+                {
+                    "_id": "60f0375de8d1a700094f4357",
+                    "contentIdentifier": "YmxvZ0BodWJzcG90LmNvbV8hKiRfV2lsbCBQZW9wbGUgQnV5IEZhc3RlciBXaGVuIFByb2R1Y3RzIEFyZSBHb2luZyBPdXQgb2YgU3RvY2s/IFtEYXRhXV8hKiRfZW5fISokX2tvXyEqJF82MGYwMzc1ZGU4ZDFhNzAwMDk0ZjQzNTY=",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T13:25:49.081Z",
+                    "updatedAt": "2021-07-15T13:25:57.424Z",
+                    "fromEmail": "blog@hubspot.com",
+                    "fromName": "HubSpot Blog, Marketing",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "HubSpot Blog, Marketing<blog@hubspot.com>",
+                    "preview": "희소성 원칙과 실제 브랜드가 이를 어떻게 활용하여 시장에 출시하고 더 높은 수요를 창출하",
+                    "previewOriginal": "Learn about the scarcity principle and how real b",
+                    "s3Info": {
+                        "object": {
+                            "key": "adaed9ed-751c-41dd-976b-c680e349e396",
+                            "size": 143544,
+                            "eTag": "a842c6d241f26319dda929a37ab129fc",
+                            "sequencer": "0060F037632CBC40BD"
+                        }
+                    },
+                    "searchKeywords": [
+                        "제품이",
+                        "품절되면",
+                        "사람들이",
+                        "더",
+                        "빨리",
+                        "구매합니까?",
+                        "[데이터]",
+                        "Will",
+                        "People",
+                        "Buy",
+                        "Faster",
+                        "When",
+                        "Products",
+                        "Are",
+                        "Going",
+                        "Out",
+                        "of",
+                        "Stock?",
+                        "[Data]"
+                    ],
+                    "sourceLanguage": "en",
+                    "subject": "제품이 품절되면 사람들이 더 빨리 구매합니까? [데이터]",
+                    "subjectOriginal": "Will People Buy Faster When Products Are Going Out of Stock? [Data]",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://www.hubspot.com/hs-fs/hubfs/scarcity-principle-email-1.jpeg?width=1200&upscale=true&name=scarcity-principle-email-1.jpeg",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "HubSpot Blog, Marketing<blog@hubspot.com>",
+                            "title": "HubSpot",
+                            "categoryIds": [
+                                "marketing",
+                                "current_issue"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "",
+                            "createdAt": "2021-03-25T06:48:04.722Z",
+                            "domain": "hubspot.com",
+                            "newsletterLanguage": "en",
+                            "shortDescription": "최신 마케팅, 서비스, 세일즈 팁 및 리서치를 정리해서 보내주는 뉴스레터",
+                            "subscribeLink": "https://blog.hubspot.com/subscriptions",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/hubspot.png",
+                            "updatedAt": "2021-05-03T02:17:54.935Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f0229de9e2df00083b2894",
+                    "contentIdentifier": "bmV3c0BwaXRjaGJvb2suY29tXyEqJF9FeHBsb3JpbmcgYSBzdXJnaW5nIGJ1eW91dHMgbWFya2V0XyEqJF9lbl8hKiRfa29fISokXzYwZjAyMjlkZTllMmRmMDAwODNiMjg5Mw==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T11:57:17.662Z",
+                    "updatedAt": "2021-07-15T11:57:40.389Z",
+                    "fromEmail": "news@pitchbook.com",
+                    "fromName": "PitchBook News",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "PitchBook News<news@pitchbook.com>",
+                    "preview": "피치북 2021년 7월 15일 뉴스레터가 마음에 드시나요? 데이터 출처 (phokin/게",
+                    "previewOriginal": "PitchBook July 15, 2021 Like our newsletter? The",
+                    "s3Info": {
+                        "object": {
+                            "key": "f9783963-2ce3-4205-abc9-0d956622f1de",
+                            "size": 550014,
+                            "eTag": "3e9353d57b211be6c2904dfd92377aeb",
+                            "sequencer": "0060F022B273058B1C"
+                        }
+                    },
+                    "searchKeywords": [
+                        "급증하는",
+                        "바이아웃",
+                        "시장",
+                        "탐색",
+                        "Exploring",
+                        "a",
+                        "surging",
+                        "buyouts",
+                        "market"
+                    ],
+                    "sourceLanguage": "en",
+                    "subject": "급증하는 바이아웃 시장 탐색",
+                    "subjectOriginal": "Exploring a surging buyouts market",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://my.pitchbook.com/n/44721.2968052.gif",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "PitchBook News<news@pitchbook.com>",
+                            "title": "PitchBook ",
+                            "categoryIds": [
+                                "tech",
+                                "finance"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "",
+                            "createdAt": "2021-03-25T12:17:29.262Z",
+                            "domain": "pitchbook.com",
+                            "newsletterLanguage": "en",
+                            "shortDescription": "VC, M&A등 변화하는 세상에 앞서나가는데 필요한 정보를 제공하는 뉴스레터",
+                            "subscribeLink": "https://pitchbook.com/subscribe",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/pitchbook.png",
+                            "updatedAt": "2021-04-22T04:29:22.486Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f01643e9e2df00083b2806",
+                    "contentIdentifier": "aW5mb0BjYXJuZXkuY29fISokX1NvY2lhbCBTd2VldCBUb290aCDwn42tXyEqJF9lbl8hKiRfa29fISokXzYwZjAxNjQzZTllMmRmMDAwODNiMjgwNQ==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T11:04:35.206Z",
+                    "updatedAt": "2021-07-15T11:04:43.688Z",
+                    "fromEmail": "info@carney.co",
+                    "fromName": "The Daily Carnage",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "The Daily Carnage<info@carney.co>",
+                    "preview": "음악과 전환의 감미로운 소리. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌",
+                    "previewOriginal": "The sweet sound of music and conversions. ‌ ‌ ‌ ‌",
+                    "s3Info": {
+                        "object": {
+                            "key": "89068a2e-8a6f-46ce-8737-190aa9b706d0",
+                            "size": 226201,
+                            "eTag": "f600babbfc8b55bff71c433cbce0dbed",
+                            "sequencer": "0060F01649CD8A466A"
+                        }
+                    },
+                    "searchKeywords": [
+                        "소셜",
+                        "스위트",
+                        "투스",
+                        "🍭",
+                        "Social",
+                        "Sweet",
+                        "Tooth",
+                        "🍭"
+                    ],
+                    "sourceLanguage": "en",
+                    "subject": "소셜 스위트 투스 🍭",
+                    "subjectOriginal": "Social Sweet Tooth 🍭",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://carney.co/wp-content/uploads/2021/07/71521-Hinge-Watch-1024x629.png",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "The Daily Carnage<info@carney.co>",
+                            "title": "Carney",
+                            "categoryIds": [
+                                "marketing"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "",
+                            "createdAt": "2021-03-25T06:48:04.723Z",
+                            "domain": "carney.co",
+                            "newsletterLanguage": "en",
+                            "shortDescription": "베스트 마케팅 콘텐츠를 골라 매일 보내주는 뉴스레터",
+                            "subscribeLink": "https://carney.co/daily-carnage/",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/carney.png",
+                            "updatedAt": "2021-03-25T06:48:04.723Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f00fe6c6de8d00091713e6",
+                    "contentIdentifier": "bm9yZXBseUByb2Jpbmhvb2QuY29tXyEqJF/wn5KwIFRoZSBzZWNyZXQgc3RpbXVsdXNfISokX2VuXyEqJF9rb18hKiRfNjBmMDBmZTZjNmRlOGQwMDA5MTcxM2U1",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T10:37:26.488Z",
+                    "updatedAt": "2021-07-15T10:37:38.237Z",
+                    "fromEmail": "noreply@robinhood.com",
+                    "fromName": "Robinhood Snacks",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "Robinhood Snacks<noreply@robinhood.com>",
+                    "preview": "...$300/월 아동 세금 공제, 설명 어제의 시장 움직임 필라델피아는 항상 화창하지만",
+                    "previewOriginal": "...the $300/month child tax credit, explained Yes",
+                    "s3Info": {
+                        "object": {
+                            "key": "b1a98ce4-8e1a-40f4-8e82-1585811b2a42",
+                            "size": 136651,
+                            "eTag": "b8fa70392a7976c4de58e50ba104ede3",
+                            "sequencer": "0060F00FF0BCE2C29E"
+                        }
+                    },
+                    "searchKeywords": [
+                        "💰",
+                        "은밀한",
+                        "자극",
+                        "💰",
+                        "The",
+                        "secret",
+                        "stimulus"
+                    ],
+                    "sourceLanguage": "en",
+                    "subject": "💰 은밀한 자극",
+                    "subjectOriginal": "💰 The secret stimulus",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://cdn.robinhood.com/marketsnacks_assets/v2/snacks.png",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "Robinhood Snacks<noreply@robinhood.com>",
+                            "title": "Robinhood Snacks",
+                            "categoryIds": [
+                                "finance",
+                                "recommendation_funjoomal"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "데일리",
+                            "createdAt": "2021-03-25T06:48:04.723Z",
+                            "domain": "robinhood.com",
+                            "newsletterLanguage": "en",
+                            "shortDescription": "금융거래플랫폼 로빈후드가 제공하는 파이낸셜 뉴스레터",
+                            "subscribeLink": "https://snacks.robinhood.com/",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/robinhood-snacks.png",
+                            "updatedAt": "2021-06-04T02:55:48.145Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f00cb17ca1220008e4f911",
+                    "contentIdentifier": "c3VwcG9ydEB0aWNrbGVpbnZlc3QuY29tXyEqJF/wn5iOIOuvuOq1rSAz64yAIOuMgO2RnCDsp4DsiJjqsIAg7JWM66Ck7KO864qUIO2IrOyekCDrsKnrspUhXyEqJF9rb18hKiRfa29fISokXzYwZjAwY2IxN2NhMTIyMDAwOGU0ZjkxMA==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T10:23:45.510Z",
+                    "updatedAt": "2021-07-15T10:23:50.366Z",
+                    "fromEmail": "support@tickleinvest.com",
+                    "fromName": "TICKLETTER -  가장 쉬운 미국주식 레터 💌",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "TICKLETTER -  가장 쉬운 미국주식 레터 💌<support@tickleinvest.com>",
+                    "preview": "주식이 어려워? 그럴 땐 나 따라와볼래?🙋 | <a href=\"https://event.",
+                    "previewOriginal": "주식이 어려워? 그럴 땐 나 따라와볼래?🙋 | <a href=\"https://event.",
+                    "s3Info": {
+                        "object": {
+                            "key": "e26811c8-56af-4fe4-ab30-fc8e85bbea28",
+                            "size": 189231,
+                            "eTag": "a328b94f9f478164132d5434a21f8563",
+                            "sequencer": "0060F00CB4F5596984"
+                        }
+                    },
+                    "searchKeywords": [
+                        "😎",
+                        "미국",
+                        "3대",
+                        "대표",
+                        "지수가",
+                        "알려주는",
+                        "투자",
+                        "방법!",
+                        "😎",
+                        "미국",
+                        "3대",
+                        "대표",
+                        "지수가",
+                        "알려주는",
+                        "투자",
+                        "방법!"
+                    ],
+                    "sourceLanguage": "ko",
+                    "subject": "😎 미국 3대 대표 지수가 알려주는 투자 방법!",
+                    "subjectOriginal": "😎 미국 3대 대표 지수가 알려주는 투자 방법!",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://img.stibee.com/20843_1594359907.png",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "TICKLETTER -  가장 쉬운 미국주식 레터 💌<support@tickleinvest.com>",
+                            "newsletterLanguage": "ko",
+                            "thumbnails": "",
+                            "verified": false,
+                            "visible": false,
+                            "title": null,
+                            "tags": [],
+                            "domain": "tickleinvest.com",
+                            "subscribeLink": null,
+                            "createdAt": "2021-07-15T10:23:00.049Z",
+                            "updatedAt": "2021-07-15T10:23:00.049Z"
+                        }
+                    ]
+                },
+                {
+                    "_id": "60f007a10439070008ae370b",
+                    "contentIdentifier": "Y3Jld0Btb3JuaW5nYnJldy5jb21fISokX+KYle+4jyBCb3NzIGJhYnlfISokX2VuXyEqJF9rb18hKiRfNjBmMDA3YTEwNDM5MDcwMDA4YWUzNzBh",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T10:02:09.761Z",
+                    "updatedAt": "2021-07-15T10:02:20.384Z",
+                    "fromEmail": "crew@morningbrew.com",
+                    "fromName": "Morning Brew",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "Morning Brew<crew@morningbrew.com>",
+                    "preview": "새로운 자녀 세금 공제에 대해 알아야 할 사항 2021년 7월 15일 후원 올해 트위터는",
+                    "previewOriginal": "What you need to know about the new child tax cre",
+                    "s3Info": {
+                        "object": {
+                            "key": "b506d29b-977f-4a9d-95ee-55f549f9eb1b",
+                            "size": 219337,
+                            "eTag": "e6bc2c1d8ef9e4b9b7665160b1ef2689",
+                            "sequencer": "0060F007AB4C136836"
+                        }
+                    },
+                    "searchKeywords": [
+                        "☕️",
+                        "보스",
+                        "베이비",
+                        "☕️",
+                        "Boss",
+                        "baby"
+                    ],
+                    "sourceLanguage": "en",
+                    "subject": "☕️ 보스 베이비",
+                    "subjectOriginal": "☕️ Boss baby",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://ad.doubleclick.net/ddm/trackimp/N805.3407870MORNINGBREW/B25066716.302483025;dc_trk_aid=500147598;dc_trk_cid=153452797;ord=631627439;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$;gdpr_consent=$;ltd=?",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "Morning Brew<crew@morningbrew.com>",
+                            "title": "Morning Brew",
+                            "categoryIds": [
+                                "current_issue",
+                                "finance",
+                                "recommendation_4years",
+                                "recommendation_freshman_fighting",
+                                "recommendation_morning_coffee"
+                            ],
+                            "confirmationEmail": "",
+                            "contentReleaseSchedule": "",
+                            "createdAt": "2021-03-25T10:36:49.151Z",
+                            "domain": "morningbrew.com",
+                            "newsletterLanguage": "en",
+                            "shortDescription": "월가에서 실리콘벨리까지 당신의 하루에 필요한 정보들을 쏙쏙골라 담은 뉴스레터",
+                            "subscribeLink": "https://www.morningbrew.com/",
+                            "thumbnails": "https://assets.sample.com/newsletter/web/morningbrew.png",
+                            "updatedAt": "2021-06-08T00:57:40.454Z",
+                            "verified": true,
+                            "visible": true,
+                            "issue": ""
+                        }
+                    ]
+                },
+                {
+                    "_id": "60ef92a71aed440009f5caed",
+                    "contentIdentifier": "Z2xvYmFsX25ld3NAd2lzZXN0LmNvLmtyXyEqJF9Nb1lhIOq4gOuhnOuyjCDribTsiqTroIjthLAgKDIwMjEtMDctMTUpXyEqJF9lbl8hKiRfa29fISokXzYwZWY5MmE3MWFlZDQ0MDAwOWY1Y2FlYw==",
+                    "subscribeEmail": "news.test@sample.com",
+                    "createdAt": "2021-07-15T01:43:03.116Z",
+                    "updatedAt": "2021-07-15T01:43:22.208Z",
+                    "fromEmail": "global_news@wisest.co.kr",
+                    "fromName": "MoYa Global News Team",
+                    "isRead": false,
+                    "isTranslatedView": true,
+                    "newslettersMetadataId": "MoYa Global News Team<global_news@wisest.co.kr>",
+                    "preview": "MoYa 뉴스 레터는 천안안 세계 주요 뉴스를 인공지능으로 옮긴다. 페이스북, 2022년",
+                    "previewOriginal": "MoYa 뉴스레터는 놓쳐선 안 될 세계 주요 뉴스를 인공지능으로 요약 및 번역한 후 매일",
+                    "s3Info": {
+                        "object": {
+                            "key": "013bf464-e790-4d56-a62d-a972caca10d8",
+                            "size": 181146,
+                            "eTag": "91622a5077688e506f6cb85c8b86c74c",
+                            "sequencer": "0060EF92B6E1A4AE32"
+                        }
+                    },
+                    "searchKeywords": [
+                        "모야",
+                        "글로벌",
+                        "뉴스레터",
+                        "(2021-07-15)",
+                        "MoYa",
+                        "글로벌",
+                        "뉴스레터",
+                        "(2021-07-15)"
+                    ],
+                    "sourceLanguage": "en",
+                    "subject": "모야 글로벌 뉴스레터 (2021-07-15)",
+                    "subjectOriginal": "MoYa 글로벌 뉴스레터 (2021-07-15)",
+                    "targetLanguage": "ko",
+                    "thumbnails": "https://image.cnbcfm.com/api/v1/image/106910298-1626199329003-gettyimages-1233961102-AFP_9EX4AQ.jpeg?v=1626199385",
+                    "newslettersMetadata": [
+                        {
+                            "_id": "MoYa Global News Team<global_news@wisest.co.kr>",
+                            "newsletterLanguage": "en",
+                            "thumbnails": "",
+                            "verified": false,
+                            "visible": false,
+                            "title": null,
+                            "domain": "wisest.co.kr",
+                            "subscribeLink": null,
+                            "createdAt": "2021-04-26T08:00:56.901Z",
+                            "updatedAt": "2021-04-26T08:00:56.901Z"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "user_id": "6074e417b00fa600698a7f05"
+}
